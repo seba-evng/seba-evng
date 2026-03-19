@@ -50,6 +50,22 @@ Composición del código:
 
 ---
 
+### 📨 Nexo (En Desarrollo Activo)
+**Aplicacoión de Mensajeria en Tiempo Real**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+
+Composición del código:
+- TypeScript: 91%
+- JavaScript: 3.5%
+
+[Ver repositorio](https://github.com/seba-evng/Nexo) →
+
+---
+
 ### 📦 Mi Primer Insumo
 **Proyecto educativo de fundamentos web**
 
